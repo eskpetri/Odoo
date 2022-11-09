@@ -17,7 +17,7 @@ https://avoin.systems/odoo-erp/ <br/>
 ## Itselleni mielenkiintoisia huomioita
 
 POS-järjestelmään saa kaikki kivijalka kaupan tarvittavat klikkeet, kuten viivakoodin lukija ja maksuvälineet. Keskustelee Varaston hallinnan kanssa 
-eli reaaliaikainen inventaario on käsillä sekä hälytykset mikäli tietty tuote raja-arvo alittuu, jos uusia tilauksia täytyy tehdä tänään eikä huomenna.
+eli reaaliaikainen inventaario on käsillä sekä hälytykset mikäli tietty tuote raja-arvo alittuu, jos uusia tilauksia täytyy tehdä/valmistaa tänään eikä huomenna.
 Eikä siinä vielä kaikki vaan integraario verkkokauppaan on olemassa eli reaaliaikaisesti näkee varastosaldon. Vielä jäi epäselväksi miten poikkeus tilanteita hoidetaan
 esimerkiksi tuote on loppu omasta varastosta, niin millä aikataululla luvataan toimitusta ja tehdäänkö se suoratoimituksena tilattavalta taholta suoraan asiakkaalle vai
 pyöräytetäänkö oman varaston kautta. <br/>
