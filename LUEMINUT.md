@@ -28,4 +28,6 @@ Lisäksi kaikki tieto menee Taloushallintoon eli kirjanpitoon automaattisesti. O
 Tyyliin https://www.kumijamatto.fi/rfid247_myymala Tyyliin tarvitset juuri nyt jotain, mutta kaupat ovat kiinni. 24/7 myymälät palvelevat juuri silloin kun haluat. 
 Onko tämä kaupan murros? Silloin kun asiakkaat tietävät jo mitä haluavat, mutta ajan kohta ei ole sopiva. 24/7 ruokakaupoille olisi kysyntää ns katve alueilla, joissa
 suuria marketteja ei ole vieressä. RFID kaupat tulevat yleistymään ilman myyjää, mutta mikä on potentiaali? Onko logistiikka ketju tähän valmis? 
-Onko myyjä avain asemassa enään vai riittääkö älypuhelimen tuottamat mainokset ja ohjaukset osto päätöksen tekoon? 
+Onko myyjä avain asemassa enään vai riittääkö älypuhelimen tuottamat mainokset ja ohjaukset osto päätöksen tekoon? <br/>
+Tarkemmin kun miettii, niin kivijalka kauppa voi jatkaa myyntiään yli aikarajojen, jos järjestelmä hyväksyy asiakkaat toiveineen ja kauppa sopeutuu RFID kaupankäyntiin.
+Ikäraja tuotteita ei voi ilmeisesti tarjota...
