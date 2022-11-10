@@ -7,4 +7,6 @@ https://github.com/odoo/odoo <br/>
 
 As a developer I start with overall introduction from https://www.odoo.com/documentation/16.0/developer/howtos/rdtraining/01_architecture.html <br/>
 
+OK too big cake almost choked on that one. Back to basic with javascript. Udemy or free cources on net. <br/>
 
+https://odoo.github.io/owl/playground/ founded a bug and fixed it in ToDo List App (with reactivity). Reported it to source. Have to see when it is fixed.
