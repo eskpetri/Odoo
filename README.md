@@ -9,4 +9,10 @@ As a developer I start with overall introduction from https://www.odoo.com/docum
 
 OK too big cake almost choked on that one. Back to basic with javascript. Udemy or free cources on net. <br/>
 
-https://odoo.github.io/owl/playground/ founded a bug and fixed it in ToDo List App (with reactivity). Reported it to source. Have to see when it is fixed.
+https://odoo.github.io/owl/playground/ founded a bug and fixed it in ToDo List App (with reactivity). Reported it to source. Have to see when it is fixed.<br/>
+
+Angural vs React <br/>
+Coder point of view
+https://www.youtube.com/watch?v=CynLOUL9vsU <br/>
+Broader view of these technologies
+https://www.youtube.com/watch?v=Z46mcHIfzoE <br/>
