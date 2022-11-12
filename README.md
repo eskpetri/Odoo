@@ -16,3 +16,4 @@ Coder point of view
 https://www.youtube.com/watch?v=CynLOUL9vsU <br/>
 Broader view of these technologies
 https://www.youtube.com/watch?v=Z46mcHIfzoE <br/>
+Basicly Angural have higher learning curve at start but gives in the end on stability. React is faster to learn but you might go wrong. Have to test Angular and it gives you easy landing on React if it comes to that.
